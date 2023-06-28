@@ -1,4 +1,4 @@
-# Random Fractals Data Tools
+# Random Fractals Inc. Data Tools
 
 [Random Fractals](https://twitter.com/search?q=(%23RandomFractalsInc)%20(from%3ATarasNovak)&src=typed_query&f=top) Inc. [**Data Tools**](https://twitter.com/search?q=(%23DataTools)%20(from%3ATarasNovak)&src=typed_query) 🛠️ is a collection of public [data visualization extensions](https://marketplace.visualstudio.com/search?term=dataViz&target=VSCode&category=All%20categories&sortBy=Relevance), [data viewers](https://marketplace.visualstudio.com/search?term=data%20viewer&target=VSCode&category=All%20categories&sortBy=Relevance), VS Code [Notebook renderers](https://marketplace.visualstudio.com/search?term=notebook%20renderer&target=VSCode&category=All%20categories&sortBy=Relevance), and [code snippets](https://marketplace.visualstudio.com/search?term=Random%20Fractals%20code%20snippets&target=VSCode&category=All%20categories&sortBy=Relevance) for devs and data scientists using VS Code IDE, published under our [Random Fractals Inc.](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) ☂️ org.
 
@@ -17,7 +17,7 @@ Our [**Pro Data Tools**](https://www.linkedin.com/feed/hashtag/?keywords=prodata
 
 ## PRQL Pro Tools
 
-Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub also get access to the Premium [PRQL Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=prqlprotools) VS Code extension. **PRQL Pro Tools** extension comes with a custom[PRQL Code Lens](https://www.linkedin.com/feed/hashtag/?keywords=prqlcodelens) SQL Tools plugin that allows you to run [PRQL](https://prql-lang.org/) queries for the supported PRQL target [SQL dialects](https://prql-lang.org/book/language-features/target.html#supported-dialects) **directly** using any of the supported SQL Tools extension drivers for the different database management systems.
+Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub also get access to the Premium [PRQL Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=prqlprotools) VS Code extension. **PRQL Pro Tools** extension comes with a custom [PRQL Code Lens](https://www.linkedin.com/feed/hashtag/?keywords=prqlcodelens) SQL Tools plugin that allows you to run [PRQL](https://prql-lang.org/) queries for the supported PRQL target [SQL dialects](https://prql-lang.org/book/language-features/target.html#supported-dialects) **directly** using any of the supported SQL Tools extension drivers for the different database management systems.
 
 ![PRQL Pro Tools Code Lens](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/prql-code-lens-pro-tools.gif?raw=true)
 
