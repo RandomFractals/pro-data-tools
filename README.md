@@ -32,11 +32,23 @@ New **Markdodown SQL Pro Tools** are available under the new [Markdown Sql Pro T
 
 ## Data Notebook Pro Tools
 
-The new [**Data Notebook Pro Tools**](https://twitter.com/search?q=(%23DataNotebooks)%20(from%3ATarasNovak)&src=typed_query) extension for our Premium [**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) extensions pack and Pro sponsors on GitHub will be released next later this summer.
+The new [**Data Notebook Pro Tools**](https://twitter.com/search?q=(%23DataNotebooks)%20(from%3ATarasNovak)&src=typed_query) extension from our Premium **Pro Data Tools** extensions pack will be released next later this summer for our [**Pro sponsors**](https://github.com/sponsors/RandomFractals) on GitHub.
 
 **Data Notebook Pro** extension integrates SQL Tools connections, supported database management systems, our [**Data Table Renderers**](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table) and VS Code Jupyter Notebook user interface to view and run SQL queries from `.sql` files and `.md` markdown documents with SQL code blocks using native VS Code Notebook View.
 
-![Markdown SQL Pro Tools Notebook](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-pro-tools-notebook.png?raw=true)
+![Data Notebook Extension](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/data-notebook-extension.png?raw=true)
+
+### Data Notebook SQL Query
+
+Simple example of running SQL query in the new **Data Notebook Pro Tools** extension:
+
+![Data Notebook SQL Query](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/data-notebook-sql-query.gif?raw=true)
+
+### Data Notebook Output Rendering
+
+Using different [**Data Table Renderers**](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table) in the **Data Notebook** created from SQL document with multiple SQL queries:
+
+![Data Notebook Output Rendering](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/data-notebook-output-rendering.gif?raw=true)
 
 ...
 
