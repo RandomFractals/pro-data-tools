@@ -4,7 +4,6 @@
 
 ![Random Fractals Data Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/random-fractals-data-tools.png?raw=true)
 
-
 # Pro Data Tools
 
 Our **Pro Data Tools** is a new Premium set of SQL and [PRQL](https://prql-lang.org/) Code Lenses and Data Viewers created for our monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub to enhance SQL development and SQL statements execution runtime workflow in VS Code IDE, connected to the different database management systems via [SQL Tools extension](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools), database plugins, and [SQL Tools drivers](https://marketplace.visualstudio.com/search?term=tag%3Asqltools-driver&target=VSCode&category=All%20categories&sortBy=PublishedDate).
@@ -31,9 +30,11 @@ Our **Markdown SQL Code Lenses** allow you to run SQL queries from your `.md` ma
 
 New **Markdodown SQL Pro Tools** are available under the new [Markdown Sql Pro Tools](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=295482) monthly subscription on GitHub.
 
-## Markdown SQL Pro Tools Notebook
+## Data Notebook Pro Tools
 
-Future versions of **Markdown SQL Pro Tools** will include new custom **Data Notebook** extension integrated with SQL Tools extension, supported database management systems, our [Data Table Renderers](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table) and VS Code Notebooks user interface to view and run SQL queries from `.sql` files and `.md` markdown documents with `sql` code blocks using native VS Code Notebook View similar to this PRQL notebook example.
+The new [**Data Notebook Pro Tools**](https://twitter.com/search?q=(%23DataNotebooks)%20(from%3ATarasNovak)&src=typed_query) extension for our Premium [**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) extensions pack and Pro sponsors on GitHub will be released next later this summer.
+
+**Data Notebook Pro** extension integrates SQL Tools connections, supported database management systems, our [**Data Table Renderers**](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table) and VS Code Jupyter Notebook user interface to view and run SQL queries from `.sql` files and `.md` markdown documents with SQL code blocks using native VS Code Notebook View.
 
 ![Markdown SQL Pro Tools Notebook](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-pro-tools-notebook.png?raw=true)
 
