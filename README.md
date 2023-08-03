@@ -46,6 +46,18 @@ This extension also adds the following SQL Code Lenses to individual SQL code bl
 - `Copy` SQL code lens to copy SQL code block to the clipboard
 - `Create` SQL code lens to create new SQL document from SQL code block in the open text editor
 
+### Supported Markdown Documents and SQL Highlights
+
+**Markdown SQL Pro Tools** detect and highlight SQL code blocks in stanadard `.md` markdown documents, `.Rmd` [R markdown](https://rmarkdown.rstudio.com/) documents, `.qmd` [Quarto](https://quarto.org/) publishing documents, `.ojs` and `.omd` [Observable JS](https://marketplace.visualstudio.com/items?itemName=GordonSmith.observable-js) and markdown documents.
+
+The supported SQL code blocks include [code fences](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks) with `sql` tag, `%%sql` magic code blocks, and `%sql` magic code lines with `SELECT` statements.
+
+![Markdown SQL Code Highlights](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-code-highlight.png?raw=true)
+
+You can use new top-level `Select All` SQL code lens to select all detected SQL code blocks in the open markdown document.
+
+![Markdown SQL Code Selections](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-selections.png?raw=true)
+
 ## Markdown SQL Feature Contributions
 
 **Markdown SQL Pro Tools** contribute the following Commands and Activation Events to VS Code IDE for working with SQL code in markdown and SQL documents.
