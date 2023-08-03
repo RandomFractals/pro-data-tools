@@ -46,3 +46,120 @@ Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-d
 - Create Markdown Sql code selection command
 - Add `Execute SQL statement(s)` code lens to the SQL code blocks in markdown documents
 - Document, package, and release Markdown SQL Pro Tools v1.0.0
+
+## DuckDB Pro Tools v1.4.0 - [2023-06-27]
+
+DuckDB Pro Tools v1.4.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupyter notebooks, and demo `.duckdb` files in the `/data` folder to [DuckDB v0.8.1](https://github.com/duckdb/duckdb/releases/tag/v0.8.1).
+
+- Update DuckDB Pro Tools to use DuckDB v0.8.1 NodeJS libraries
+- Update all `.duckdb` files and create DuckDB Jupyter notebooks in DuckDB Pro Tools `/data` folder to use DuckDB v0.8.1
+- Add DuckDB version info and detailed error logging to DuckDB Pro Tools connection error message display
+- Update DuckDB Pro Tools `README.md` with DuckDB v0.8.1 support info
+- Add VS Code SQL and Data Tools sections to DuckDB Pro Tools `README.md`
+- Package and publish DuckDB Pro Tools v1.4.0 with DuckDB v0.8.1 support
+
+## DuckDB Pro Tools v1.3.0 - [2023-06-22]
+
+DuckDB Pro Tools v1.3.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupyter notebooks, and demo `.duckdb` files in the `/data` folder to [DuckDB v0.8.0](https://github.com/duckdb/duckdb/releases/tag/v0.8.0).
+
+- Update DuckDB Pro Tools to use DuckDB v0.8.0 NodeJS libraries
+- Update all `.duckdb` files and create DuckDB Jupyter notebooks in DuckDB Pro Tools `/data` folder to use DuckDB v0.8.0
+- Update DuckDB Pro Tools `README.md` with DuckDB v0.8.0 support info
+- Package and publish DuckDB Pro Tools v1.3.0 with DuckDB v0.8.0 support
+
+## DuckDB Pro Tools v1.2.0 - [2023-05-17]
+
+DuckDB Pro Tools v1.2.0 adds over 30 new DuckDB views and metadata shortcut commands to the VSCode Command Palette under `DuckDB Tools` commands category, and features new `prompt.sql` query examples created with the free [Hugging Face Code Autocomplete](https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode) extension.
+
+- Add DuckDB metadata functions shortcut commands to DuckDB Pro Tools
+- Move DuckDBDatabase namespace and interfaces to new duckdb.ts
+- Move DuckDBPro tools driver name and extension id/name constants to constants.ts
+- Add AI generated query examples for the employees database demo data in DuckDB Pro Tools
+- Package and publish DuckDB Pro Tools v1.2.0 release
+
+## DuckDB Pro Tools v1.1.0 - [2023-05-01]
+
+DuckdDB Pro Tools v1.1.0 release with extended DB objects tree view display, improved SQL intellisense, and alpha implementation of read/write DB access mode and connections handling.
+
+- Create Enhanced DB tree view with more DB objects for the DuckDB Pro Tools extension
+- Add more chinook demo db sql queries to run in a data notebook
+- Open DuckDBPro instances in read write access mode by default
+- Add DuckDB Pro Tools v1.1.0 images and feature demo gifs to the public DuckDB Sql Tools repository
+- Document and publish DuckDB Pro Tools v1.1.0 with extended DuckDB instance tree view objects and results display
+
+## DuckDB Pro Tools v1.0.3 - [2023-03-23]
+
+First private DuckDB Pro Tools beta release.
+
+- Add more info about database storage and versions to DuckDB Storage section in docs
+- Create new Employees DuckDB with parquet files to run PRQL queries
+- Add PRQL and SQL query examples from PRQL book
+- Create new duckdb-pro-tools extension package
+- Add Run PRQL on active DuckDB connection to DuckDB Pro Tools extension
+- Updated chinook.duckdb SQL queries generated from PRQL to use the latest PRQL library version (0.5.0)
+- Move atrist-track-prices.prql and generated sql to data/chinook/sqlite data and queries folder
+- Link DuckDB Sql Tools home page to public preview/docs repo
+- Use new PRQL extension settings in this project config
+- Update chinook.duckdb demo data to DuckDB v0.7.1 storage format in DuckDB Pro Tools extension package
+- Use duckdb.js library v0.7.1 in the Pro version of DuckDB Tools
+- Move new PRQL Run Query Code Lens to new PRQL Tools repository
+- Remove PRQL Code Lens code from DuckDB Pro Tools extension
+- Set DuckDB Pro SQLTools driver name to DuckDB Pro
+- Add employees.duckdb config to workspace settings using new DuckDBPro driver to test it
+- Add a black dot to the DuckDB Pro extension and DB state icons
+- Add TPC-DS /data folder with DuckDB schema SQL script, load data SQL, and TPC-DS SQL queries and data
+- Rename TPC-DS load.sql to load-csv.sql and add load-parquet.sql script
+- Add /gbif data folder with sample SQL and PRQL queries for AWS hosted public datasets
+- Update all create DuckDB notebooks and .duckdb files in /data folder to use DuckDB v0.7.1 storage format
+- Create DuckDB SVG icons for the DuckDB Pro Tools version
+- Create new DuckDB Pro Tools documentation
+- Use new DuckDB Pro svg icons for conenctions display instead of png
+- Move Chicago crimes create table and query examples to new data/chicago-crimes folder
+- Add new chicago-crimes.duckdb in-memory db pro config to data folder
+- Change GBIF demo duckdb config to DuckDBPro instance
+- Rename GBIF data/sql folder to data/gbif-observations
+- Cleanup DuckDB and DuckDBPro db configs for DuckDBPro Tools release
+- Install and load DuckDB JSON extension for all open DuckDB connections
+- Add remote JSON data loading examples
+- Remove the old playlists demo data and config
+- Add DuckDB Pro Tools docs/images and demo gifs
+- Create tpc-h-duckdb-gen.ipynb Jupyter notebook and test DuckDB Pro Tools with TPC-H 1, 10, and 100 DB scale factors
+- Add Chicago Traffic Estimates Jupyter notebook and Restbook to test DuckDB HTTPFS and JSON data loading from URL with redirects
+- Add DuckDB Pro Tools images to the public DuckDB Sql Tools repository for images to load on Extension Info page in VSCode
+
+## DuckDB SQL Tools v1.0.2 - [2023-01-28]
+
+Documentation Update Release.
+
+- Refine DuckDB SQL Tools extension intro, features list, and other doc sections in README.md
+
+## DuckDB SQL Tools v1.0.1 - [2023-01-27]
+
+Minor extension packaging update for the extension gallery banner background color display in VSCode marketplace.
+
+- Add gallery banner color to extension package manifest
+
+## DuckDB SQL Tools v1.0.0 - [2023-01-27]
+
+Initial Public Preview Release.
+
+- Create DuckDB tools monorepo structure
+- Create duckdb-sql-tools vscode extension package
+- Create DuckDB Sql Tools driver base code
+- Create DuckDB sql tools icons
+- Add DuckDB SQL tools demo gif for docs
+- Create DuckDB sql tools driver using NodeJS libraries
+- Add PRQL query examples for the demo db and data files in data folder
+- Add chinook demo db data files in different formats
+- Create DuckDB SQL Tools preview version README.md
+- Add Random Fractals Inc. license file
+- Allow to create readwrite `:memory:` database connections
+- Add httpfs data loading example
+- Add sample duckdb sql query examples
+- Add better chinook db create sql script with primary keys and indexes
+- Add chinook duckdb Jupyter notebook and create new chinook.duckdb file using duckdb v0.6.1
+- Add VSCode Memory Limit info to Limitations section in vscode extension README.md
+- Add additional DuckDB keywords, pragmas, and metadata functions to SQL keywords
+- Add demo data section to vscode extension README.md
+- Create CHANGELOG.md for the DuckDB SQL Tools extension v1.0.0 release
+- Package and publish DuckDB Sql Tools v1.0.0 Preview release
