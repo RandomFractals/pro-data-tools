@@ -2,7 +2,7 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
-## Markdown SQL Pro Tools v1.2.0 (2023-08-03)
+## Markdown SQL Pro Tools v1.2.0 - [2023-08-03]
 
 - Support SQL magics (`%%sql`) in markdown SQL code fences and parsing of SQL code blocks for SQL code lenses
 - Add SQL code lenses to SQL code blocks and string literals in Observable markdown (`.omd`) and Observable JS (`.ojs`) documents
@@ -18,7 +18,7 @@ Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-d
 - Add new top level `Bookmark All` SQL code lens to markdown documents
 - Document, package and publish Markdown SQL Pro Tools v1.2.0 release
 
-## Markdown SQL Pro Tools v1.1.0 (2023-07-07)
+## Markdown SQL Pro Tools v1.1.0 - [2023-07-07]
 
 - Rename `Execute SQL statement(s)` code lens title to `Execute`
 - Rename `Execute All SQL statement(s)` code lens title to `Execute All`
@@ -37,15 +37,6 @@ Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-d
 - Update `Data Notebook` extension info and demo gifs in `README.md`
 - Create new Markdow SQL Pro Tools demo gif and update extension intro section in `README.md`
 - Package and publish Markdown SQL Pro Tools v1.1.0 release
-
-## Markdown SQL Pro Tools v1.0.0 (2023-06-20)
-
-- Scaffold `Markdown Sql Pro Tools` extension code base from PRQL Code Lens in PRQL Pro Tools VS Code extension
-- Create custom Markdown SQL Pro Tools extension icon
-- Enhance SQL Code Lens provider and SQL Tools extension plugin to support SQL code blocks in markdown documents
-- Create Markdown Sql code selection command
-- Add `Execute SQL statement(s)` code lens to the SQL code blocks in markdown documents
-- Document, package, and release Markdown SQL Pro Tools v1.0.0
 
 ## DuckDB Pro Tools v1.4.0 - [2023-06-27]
 
@@ -67,6 +58,10 @@ DuckDB Pro Tools v1.4.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupy
 - Add VS Code SQL and Pro Data Tools info to the public DuckDB Sql Tools extension `README.md`
 - Package and publish DuckDB SQL Tools v1.1.0 with DuckDB v0.7.1 support
 
+## PRQL Pro Tools v1.2.0 - [2023-06-23]
+
+- Update PRQL Pro Tools to use `prql-js` v0.8.1, DuckDB Pro Tools v1.3.0, and DuckDB v0.8.0
+
 ## DuckDB Pro Tools v1.3.0 - [2023-06-22]
 
 DuckDB Pro Tools v1.3.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupyter notebooks, and demo `.duckdb` files in the `/data` folder to [DuckDB v0.8.0](https://github.com/duckdb/duckdb/releases/tag/v0.8.0).
@@ -75,6 +70,15 @@ DuckDB Pro Tools v1.3.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupy
 - Update all `.duckdb` files and create DuckDB Jupyter notebooks in DuckDB Pro Tools `/data` folder to use DuckDB v0.8.0
 - Update DuckDB Pro Tools `README.md` with DuckDB v0.8.0 support info
 - Package and publish DuckDB Pro Tools v1.3.0 with DuckDB v0.8.0 support
+
+## Markdown SQL Pro Tools v1.0.0 - [2023-06-20]
+
+- Scaffold `Markdown Sql Pro Tools` extension code base from PRQL Code Lens in PRQL Pro Tools VS Code extension
+- Create custom Markdown SQL Pro Tools extension icon
+- Enhance SQL Code Lens provider and SQL Tools extension plugin to support SQL code blocks in markdown documents
+- Create Markdown Sql code selection command
+- Add `Execute SQL statement(s)` code lens to the SQL code blocks in markdown documents
+- Document, package, and release Markdown SQL Pro Tools v1.0.0
 
 ## DuckDB Pro Tools v1.2.0 - [2023-05-17]
 
@@ -135,6 +139,23 @@ First private DuckDB Pro Tools beta release.
 - Create tpc-h-duckdb-gen.ipynb Jupyter notebook and test DuckDB Pro Tools with TPC-H 1, 10, and 100 DB scale factors
 - Add Chicago Traffic Estimates Jupyter notebook and Restbook to test DuckDB HTTPFS and JSON data loading from URL with redirects
 - Add DuckDB Pro Tools images to the public DuckDB Sql Tools repository for images to load on Extension Info page in VSCode
+
+## PRQL Pro Tools v1.1.0 - [2023-03-15]
+
+- Update `prql-js` to v0.6.1 to execute PRQL loops and use other new PRQL language and compiler features
+- Add GBIF sample PRQL query run gif to docs
+
+## PRQL Pro Tools v1.0.0 - [2023-03-03]
+
+- Move new PRQL Run Query Code Lens from DuckDB Tools monorepo to this new PRQL Tools monorepo
+- Create custom PRQL Run extension icons for PRQL Tools
+- Document PRQL Code Lens extension package
+- Package and publish the first PRQL Code Lens extension private beta v. release
+- Add `/data` folder with our `chinook.duckdb` instance from DuckDB Sql Tools for testing and sample runs
+- Create new /scripts/prql folder with .prql files for testing and sample PRQL Query runs
+- Add PRQL vscode extension dependency for PRQL documents grammar support
+- Use prql.target setting to get SQL for the PRQL Run Query code lens
+- Create PRQL Pro Tools README.md with a summary of PRQL Pro Tools extension pack
 
 ## DuckDB SQL Tools v1.0.2 - [2023-01-28]
 
