@@ -70,6 +70,16 @@ Using **Markdown SQL Pro Tools** with new **SQL Bookmarks**, SQLite and our **Du
 
 **Note**: Install [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) extension separately to see new `Bookmark All` SQL code lens enabled in the supported markdown documents.
 
+### Interactive SQL in Quarto Docs
+
+The **Markdown SQL Pro Tools** v1.2.0 adds **SQL Code Lenses** to SQL code blocks in [Quarto](https://quarto.org/) markdown docs in VS Code IDE.
+
+Quick demo of setting up local HR SQLite database with SQL Tools VS Code extension, rendering Quarto markdown document with [Quarto](https://marketplace.visualstudio.com/items?itemName=quarto.quarto) extension, and using our new SQL code lenses to Execute SQL queries from standard `.md` and `.qmd` markdown documents code:
+
+![Interactive SQL in Quarto Docs](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-in-quarto.gif?raw=true)
+
+You can install and use [Interactive SQL](https://github.com/shafayetShafee/interactive-sql) Quarto extension to experiment with it in VS Code with Quarto markdown docs.
+
 ## Markdown SQL Feature Contributions
 
 **Markdown SQL Pro Tools** contribute the following Commands and Activation Events to VS Code IDE for working with SQL code in markdown and SQL documents.
