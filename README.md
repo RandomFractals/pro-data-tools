@@ -58,6 +58,18 @@ You can use new top-level `Select All` SQL code lens to select all detected SQL 
 
 ![Markdown SQL Code Selections](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-selections.png?raw=true)
 
+### Markdown SQL Code Bookmarks
+
+Users of the popular [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) VS Code extension can use new top-level `Bookmark All` SQL code lens to toggle SQL code bookmarks in the open markdown documents.
+
+![Markdown SQL Code Bookmarks](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-bookmarks.png?raw=true)
+
+Using **Markdown SQL Pro Tools** with new **SQL Bookmarks**, SQLite and our **DuckDB Pro** SQL Tools in VS Code IDE on [Ploomber's JupySQL](https://github.com/ploomber/jupysql/blob/master/doc/quick-start.md) Jupyter book markdown docs:
+
+![Using Markdown SQL Code Bookmarks](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-bookmarks.gif?raw=true)
+
+**Note**: Install [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) extension separately to see new `Bookmark All` SQL code lens enabled in the supported markdown documents.
+
 ## Markdown SQL Feature Contributions
 
 **Markdown SQL Pro Tools** contribute the following Commands and Activation Events to VS Code IDE for working with SQL code in markdown and SQL documents.
