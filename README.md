@@ -80,6 +80,16 @@ Quick demo of setting up local HR SQLite database with SQL Tools VS Code extensi
 
 You can install and use [Interactive SQL](https://github.com/shafayetShafee/interactive-sql) Quarto extension to experiment with it in VS Code with Quarto markdown docs.
 
+### Interactive SQL in R Markdown
+
+You can also use new **SQL Code Lenses** in [R Markdown](https://rmarkdown.rstudio.com/) documents in VS Code IDE.
+
+[SQL in RMD](https://github.com/sciencificity/sql-in-rmd/tree/main) GitHub repository provides a great example of using SQL code chunks in R markdown documents.
+
+Setting up demo SQLite database connection and using our **SQL Code Lenses** to run SQL queries from R markdown document:
+
+![Interactive SQL in R Markdown](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-in-rmd.gif?raw=true)
+
 ## Markdown SQL Feature Contributions
 
 **Markdown SQL Pro Tools** contribute the following Commands and Activation Events to VS Code IDE for working with SQL code in markdown and SQL documents.
