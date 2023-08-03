@@ -58,6 +58,15 @@ DuckDB Pro Tools v1.4.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupy
 - Add VS Code SQL and Data Tools sections to DuckDB Pro Tools `README.md`
 - Package and publish DuckDB Pro Tools v1.4.0 with DuckDB v0.8.1 support
 
+## DuckDB SQL Tools v1.1.0 - [2023-06-26]
+
+- Update DuckDB Sql Tools extension to use DuckDB v0.7.1
+- Update DuckDB Sql Tools demo `chinook.duckdb` file to use DuckDB v0.7.1 storage format
+- Add DuckDB version info, detailed error logging, and DuckDB Pro Tools info to the DuckDB Sql Tools driver and DuckDB connection error message display
+- Update DuckDB SQL Tools `README.md` with new DuckDB v0.7.1 support info
+- Add VS Code SQL and Pro Data Tools info to the public DuckDB Sql Tools extension `README.md`
+- Package and publish DuckDB SQL Tools v1.1.0 with DuckDB v0.7.1 support
+
 ## DuckDB Pro Tools v1.3.0 - [2023-06-22]
 
 DuckDB Pro Tools v1.3.0 updates DuckDB NodeJS libraries, create demo DuckDB Jupyter notebooks, and demo `.duckdb` files in the `/data` folder to [DuckDB v0.8.0](https://github.com/duckdb/duckdb/releases/tag/v0.8.0).
