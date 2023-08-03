@@ -22,13 +22,35 @@ Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?s
 
 ## Markdown SQL Pro Tools
 
-The recently released [**Markdown SQL Pro Tools**](https://www.linkedin.com/feed/hashtag/?keywords=markdownsqlprotools) extension enhances SQL Tools integration in VS Code IDE with new `Execute All`, `Execute`, `Select`, `Copy`, and `Create` new SQL document [Code Lenses](https://code.visualstudio.com/api/language-extensions/programmatic-language-features#codelens-show-actionable-context-information-within-source-code) to work with SQL code blocks and statements in SQL and markdown text documents.
+**Markdown SQL Pro Tools** extension adds custom SQL [Code Lenses](https://code.visualstudio.com/api/language-extensions/programmatic-language-features#codelens-show-actionable-context-information-within-source-code) to SQL code blocks in standard SQL and various markdown documents in VS Code IDE.
 
-New **SQL Code Lenses** integrate with [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) Connections manager, supported [SQL Tools drivers](https://marketplace.visualstudio.com/search?term=tag%3Asqltools-driver&target=VSCode&category=All%20categories&sortBy=PublishedDate), and query results viewer to execute SQL **directly** on any of the supported SQL Tools database management systems and display results.
+The provided **SQL Code Lenses** include top-level SQL and markdown document `Execute All`, `Select All`, `Extract All`, `Bookmark All` SQL code lenses, `Execute`, `Select`, and `Copy` SQL code block lenses, and `Create` New SQL document from SQL code block lens.
 
-**Markdown SQL Pro Tools** extension also provides options to `Select`, `Copy`, and `Create` new SQL document from SQL code block in SQL or markdown document open in VS Code Text Editor.
+ Our **SQL Code Lenses** integrate with the popular [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) Connections manager, supported [SQL Tools drivers](https://marketplace.visualstudio.com/search?term=tag%3Asqltools-driver&target=VSCode&category=All%20categories&sortBy=PublishedDate), and query results viewer to execute SQL **directly** on any of the supported SQL Tools database management systems and view results.
 
 ![Markdown SQL Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-pro-tools-v1.1.0.gif?raw=true)
+
+## Markdown SQL Features
+
+**Markdown SQL Pro Tools** add the following top-level **SQL Code Lenses** to SQL and markdown documents open in VS Code IDE:
+
+- `Execute All` SQL code lens to execute all SQL statements in the open SQL or markdown document
+- `Select All` SQL code lens to select all SQL code blocks in the open markdown document
+- `Extract All` SQL code lens to extract all SQL code blocks from the open markdown document
+- `Bookmark All` SQL code lens to bookmark all SQL code blocks in the open markdown document
+
+This extension also adds the following SQL Code Lenses to individual SQL code blocks in the open markdown documents and SQL statements in SQL documents:
+
+- `Execute` SQL code lens to run SQL code using active SQL Tools database connection
+- `Select` SQL code lens to select SQL code block in the open SQL or markdown document editor
+- `Copy` SQL code lens to copy SQL code block to the clipboard
+- `Create` SQL code lens to create new SQL document from SQL code block in the open text editor
+
+## Markdown SQL Feature Contributions
+
+**Markdown SQL Pro Tools** contribute the following Commands and Activation Events to VS Code IDE for working with SQL code in markdown and SQL documents.
+
+![Markdown SQL Pro Tools Feature Contributions](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/markdown-sql-pro-tools-contributions.png?raw=true)
 
 **Markdodown SQL Pro Tools** extension is available under the new [**Markdown Sql Pro Tools**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=295482) monthly sponsor subscription on GitHub and also includes access to the [**DuckDB Pro**](https://randomfractals.github.io/pro-data-tools/#duckdb-pro-tools) SQL Tools plugin and [**PRQL Code Lens**](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) extension from our Premium [**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) extensions pack.
 
