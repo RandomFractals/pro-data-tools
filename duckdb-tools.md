@@ -50,12 +50,12 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Connect** to a local DuckDB [v0.8.1](https://github.com/duckdb/duckdb/releases/tag/v0.8.1) instance
 - **Create** new in-memory DuckDB instance
 - **Import** local and remote `CSV`, `JSON` and `Parquet` data files into in-memory DuckDB instance for exploratory data analysis (EDA)
-- **View** DuckDB v0.8.0 databases, schemas, tables, columns, views, indexes, sequences, extensions, settings, functions, types and keywords in SQL Tools Connections Explorer
+- **View** DuckDB v0.8.1 databases, schemas, tables, columns, views, indexes, sequences, extensions, settings, functions, types and keywords in SQL Tools Connections Explorer
 - **Run** SQL queries on active DuckDB connections
 - **Attach** SQLite database files to in-memory DuckDB instances to run analytical queries
 - **Query** remote `CSV`, `Parquet`, and `JSON` data files with [DuckDB HTTPFS](https://duckdb.org/docs/extensions/httpfs.html) extension and new [DuckDB JSON](https://duckdb.org/2023/03/03/json.html) extension
 - **Create** in-memory DuckDB tables from remote data sources and query results
-- **Manage** DuckDB v0.8.0 connections in SQL Tools Connections Explorer
+- **Manage** DuckDB v0.8.1 connections in SQL Tools Connections Explorer
 - **Auto-complete** SQL keywords, DuckDB instance table names, column names, and view names for active DuckDB connections in VS Code SQL editor
 - **Save** named SQL query Bookmarks
 - **Use** SQL Query History
