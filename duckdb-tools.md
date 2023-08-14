@@ -45,9 +45,9 @@ DuckDB SQL Tools [Installation](https://github.com/RandomFractals/duckdb-sql-too
 
 ## DuckDB Pro Tools *Preview* Features
 
-The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=duckdbpro) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8.0](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
+The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=duckdbpro) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
 
-- **Connect** to a local DuckDB [v0.8.0](https://github.com/duckdb/duckdb/releases/tag/v0.8.0) instance
+- **Connect** to a local DuckDB [v0.8.1](https://github.com/duckdb/duckdb/releases/tag/v0.8.1) instance
 - **Create** new in-memory DuckDB instance
 - **Import** local and remote `CSV`, `JSON` and `Parquet` data files into in-memory DuckDB instance for exploratory data analysis (EDA)
 - **View** DuckDB v0.8.0 databases, schemas, tables, columns, views, indexes, sequences, extensions, settings, functions, types and keywords in SQL Tools Connections Explorer
