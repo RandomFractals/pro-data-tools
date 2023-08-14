@@ -2,6 +2,10 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## Markdown SQL Pro Tools v1.3.0 - [2023-08-14]
+
+- Skip adding top level `Select All`, `Extract All`, and `Bookmark All` SQL code lenses to open markdown documents without SQL code blocks
+
 ## Markdown SQL Pro Tools v1.2.0 - [2023-08-03]
 
 - Support SQL magics (`%%sql`) in markdown SQL code fences and parsing of SQL code blocks for SQL code lenses
