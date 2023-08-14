@@ -1,6 +1,6 @@
 # DuckDB Tools
 
-[DuckDB](https://duckdb.org/docs/) is an in-process SQL [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) database management system that uses vecotrized data engine and parallel query processing optimized for analytics. DuckDB provides extensive [SQL support](https://duckdb.org/docs/sql/introduction) and direct [data loading](https://duckdb.org/docs/data/overview#csv-loading) and query capabilities for local and remote data sources in `Parquet`, `CSV`, and `JSON` formats.
+[DuckDB](https://duckdb.org/docs/) is an in-process SQL [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) database management system that uses vectorized data engine and parallel query processing optimized for analytics. DuckDB provides extensive [SQL support](https://duckdb.org/docs/sql/introduction) with direct [data loading](https://duckdb.org/docs/data/overview#csv-loading) and query capabilities for local and remote data sources in `Parquet`, `CSV`, and `JSON` data formats.
 
 [Random Fractals, Inc.](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) created two Visual Studio Code IDE extensions that allow you to view and query local data, DuckDB files, and remote data sources using DuckDB: [DuckDB Pro Tools](https://randomfractals.github.io/pro-data-tools/#duckdb-pro-tools) and [DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Preview*.
 
@@ -31,15 +31,15 @@ The free and public [DuckDB SQL Tools](https://marketplace.visualstudio.com/item
 
 [SQL Tools documentation](https://vscode-sqltools.mteixeira.dev/en/home/) contains more information about the other generic SQL Tools extension features.
 
-DuckDB SQL Tools [Installation](https://github.com/RandomFractals/duckdb-sql-tools#installation) documentation provides instructions to install this *Preview* extension in VS Code or VS Codium, and lists the current [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free DuckDB VS Code extension version.
+DuckDB SQL Tools [Installation](https://github.com/RandomFractals/duckdb-sql-tools#installation) documentation provides instructions on how to install this *Preview* extension in VS Code or VS Codium, and lists the current [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free DuckDB VS Code extension version.
 
 # DuckDB Pro Tools
 
-[**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) is our new Visual Studio Code extensions pack with premium query and data view features created for the monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our extensions on github.
+[**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) is our new Visual Studio Code extensions pack with premium SQL query and data view features created for the monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our extensions on github.
 
-**Pro Data Tools** enhance SQL development experience, documentation and notebooks SQL code preview, and query execution and results rendering capablities for the different database management systems supported by the SQL Tools extension and plugins.
+**Pro Data Tools** enhance SQL development experience, documentation and notebooks SQL code preview, SQL query execution and results rendering capablities for the different database management systems supported by the SQL Tools extension and plugins.
 
-[**DuckDB Pro Tools**](https://randomfractals.github.io/pro-data-tools/#duckdb-pro-tools) extension that adds **advanced** [DuckDB](https://duckdb.org/) SQL, connection features, and DuckDB v0.8.1 support to VS Code IDE.
+**DuckDB Pro Tools** extension adds advanced [DuckDB](https://duckdb.org/) connection features and support to [VS Code](https://code.visualstudio.com/) IDE, and provides database schemas display, DuckDB extensions and settings views, information schema and catalog views, SQL query API and user interfaces integrated with the popular [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) extension, SQL query editor, SQL language server, and VS Code data processing tools.
 
 ![DuckDB Pro Tools Views](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-views.gif?raw=true)
 
