@@ -39,7 +39,7 @@ Install [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools) *
 
 **DuckDB SQL Tools** [Installation](https://github.com/RandomFractals/duckdb-sql-tools#installation) documentation has instructions on how to install this *Preview* extension in [VSCodium](https://vscodium.com/) and other VS Code based IDEs like [Azure Data Studio](https://github.com/Microsoft/azuredatastudio).
 
-**DuckDB SQL Tools** documentation also lists all the [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free public DuckDB VS Code extension *Preview* version.
+**DuckDB SQL Tools** documentation also lists all the [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free public DuckDB VS Code extension *Preview* version, and recommended SQL Tools extension [Configuration](https://github.com/RandomFractals/duckdb-sql-tools#configuration) settings to use with our DuckDB VS Code Tools.
 
 # DuckDB Pro Tools
 
