@@ -2,7 +2,7 @@
 
 [DuckDB](https://duckdb.org/docs/) is an in-process SQL [OLAP](https://en.wikipedia.org/wiki/Online_analytical_processing) database management system that uses vectorized data engine and parallel query processing optimized for analytics. DuckDB provides extensive [SQL support](https://duckdb.org/docs/sql/introduction) with direct [data loading](https://duckdb.org/docs/data/overview#csv-loading) and query capabilities for local and remote data sources in `Parquet`, `CSV`, and `JSON` data formats.
 
-[Random Fractals, Inc.](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) created two Visual Studio Code IDE extensions that allow you to view and query local data, DuckDB files, and remote data sources using DuckDB: [DuckDB Pro Tools](https://randomfractals.github.io/pro-data-tools/#duckdb-pro-tools) and [DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Preview*.
+[Random Fractals, Inc.](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) created two DuckDB Visual Studio Code IDE extensions that allow you to view and query local data, DuckDB files, and remote data sources: [DuckDB Pro Tools](https://randomfractals.github.io/pro-data-tools/#duckdb-pro-tools) and [DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools).
 
 ![DuckDB VS Code Extensions](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/duckdb-vscode-extensions.png?raw=true)
 
@@ -39,11 +39,11 @@ DuckDB SQL Tools [Installation](https://github.com/RandomFractals/duckdb-sql-too
 
 **Pro Data Tools** enhance SQL development experience, documentation and notebooks SQL code preview, SQL query execution and results rendering capablities for the different database management systems supported by the SQL Tools extension and plugins.
 
-**DuckDB Pro Tools** extension adds advanced [DuckDB](https://duckdb.org/) connection features and support to [VS Code](https://code.visualstudio.com/) IDE, and provides database schemas display, DuckDB extensions and settings views, information schema and catalog views, SQL query API and user interfaces integrated with the popular [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) extension, SQL query editor, SQL language server, and VS Code data processing tools.
+**DuckDB Pro Tools** extension adds advanced DuckDB connection features and support to VS Code IDE, and provides database schemas display, DuckDB extensions and settings views, information schema and catalog views, SQL query API and user interfaces integrated with the popular [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) extension, SQL query editor, SQL language server, and VS Code data processing tools.
 
 ![DuckDB Pro Tools Views](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-views.gif?raw=true)
 
-## DuckDB Pro Tools *Preview* Features
+## DuckDB Pro Tools Features
 
 The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=duckdbpro) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
 
@@ -60,7 +60,7 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Save** named SQL query Bookmarks
 - **Use** SQL Query History
 - **Export** DuckDB query results in `CSV` and `JSON` data formats
-- **Use** [PRQL Code Lens](https://github.com/RandomFractals/prql-pro-tools#prql-code-lens) from our new [PRQL Pro Tools](https://twitter.com/search?q=(%23PRQLProTools)%20(from%3ATarasNovak)&src=typed_query&f=live) collection to generate and run SQL queries on active DuckDB connection
-- **Explore** new [`employees.duckdb`](https://github.com/RandomFractals/duckdb-pro-tools/tree/main/data/employees) demo data, PRQL and SQL sample queries
-- **Run** sample [`chicago-crimes`](https://github.com/RandomFractals/duckdb-pro-tools/tree/main/data/chicago-crimes) and [`gbif-observations`](https://github.com/RandomFractals/duckdb-pro-tools/tree/main/data/gbif-observations) [PRQL](https://prql-lang.org/) and SQL queries on Github and AWS S3 hosted `parquet` data files
+- **Use** [PRQL Code Lens](https://github.com/RandomFractals/prql-pro-tools#prql-code-lens) from our new [PRQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) collection to generate and run SQL queries on active DuckDB connection
+- **Explore** new `employees.duckdb` demo data, PRQL and SQL sample queries
+- **Run** sample `chicago-crimes` and `gbif-observations` [PRQL](https://prql-lang.org/) and SQL queries on Github and AWS S3 hosted `parquet` data files
 - **Use** new `DuckDB Tools` views and metadata shortcut commands from VS Code `Command Palette...`
