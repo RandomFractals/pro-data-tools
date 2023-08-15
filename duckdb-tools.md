@@ -41,11 +41,17 @@ Install [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools) *
 
 **DuckDB SQL Tools** documentation also lists all the [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free public DuckDB VS Code extension *Preview* version, and recommended SQL Tools extension [Configuration](https://github.com/RandomFractals/duckdb-sql-tools#configuration) settings to use with our DuckDB VS Code Tools.
 
-# DuckDB Pro Tools
+# Pro Data Tools
 
-[**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) is our new Visual Studio Code extensions pack with premium SQL query and data view features created for the monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our extensions on github.
+[**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) is our new Visual Studio Code extensions pack with premium SQL query and data view features created for the monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our extensions on GitHub.
+
+Our **Pro Data Tools** for devs and data scientists using VS Code IDE include **DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools).
+
+![Pro Data Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/pro-data-tools.png?raw=true)
 
 **Pro Data Tools** enhance SQL development experience, documentation and notebooks SQL code preview, SQL query execution and results rendering capablities for the different database management systems supported by the SQL Tools extension and plugins.
+
+# DuckDB Pro Tools
 
 **DuckDB Pro Tools** extension adds advanced DuckDB connection features and support to VS Code IDE, and provides database schemas display, DuckDB extensions and settings views, information schema and catalog views, SQL query API and user interfaces integrated with the popular [SQL Tools](https://vscode-sqltools.mteixeira.dev/en/home/) extension, SQL query editor, SQL language server, and VS Code data processing tools.
 
