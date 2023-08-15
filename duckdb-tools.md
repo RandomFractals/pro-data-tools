@@ -81,7 +81,7 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 
 ## DuckDB Pro Tools Installation
 
-**DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and our new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools) are available to our [Pro Sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
+Become a [Pro Sponsor](https://github.com/sponsors/RandomFractals) of our new **Pro Data Tools** work on GitHub to access **DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and our new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools) releases and extension `.vsix` installation packages.
 
 All of our GitHub **Pro** sponsors get invited as collaborators to our private [Pro Data Tools](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) repositories, and will be notified about the upcoming updates, new releases, additions, and new [Data Notebook Pro Tools](https://randomfractals.github.io/pro-data-tools/#data-notebook-pro-tools) extension we'll be releasing later this summer.
 
