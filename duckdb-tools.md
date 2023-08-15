@@ -31,7 +31,15 @@ The free and public [DuckDB SQL Tools](https://marketplace.visualstudio.com/item
 
 [SQL Tools documentation](https://vscode-sqltools.mteixeira.dev/en/home/) contains more information about the other generic SQL Tools extension features.
 
-DuckDB SQL Tools [Installation](https://github.com/RandomFractals/duckdb-sql-tools#installation) documentation provides instructions on how to install this *Preview* extension in VS Code or VS Codium, and lists the current [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free DuckDB VS Code extension version.
+## DuckDB SQL Tools Installation
+
+Install [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools) *Preview* extension from [VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) or directly in VS Code IDE from Extensions tab (`ctrl+shift+x`) by searching for `DuckDB`.
+
+![DuckDB SQL Tools VS Code Extension Info](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-sql-tools-extension-info.png?raw=true)
+
+**DuckDB SQL Tools** [Installation](https://github.com/RandomFractals/duckdb-sql-tools#installation) documentation has instructions on how to install this *Preview* extension in [VSCodium](https://vscodium.com/) and other VS Code based IDEs like [Azure Data Studio](https://github.com/Microsoft/azuredatastudio).
+
+**DuckDB SQL Tools** documentation also lists the current [Limitations](https://github.com/RandomFractals/duckdb-sql-tools#limitations) and restrictions of this free DuckDB VS Code extension version.
 
 # DuckDB Pro Tools
 
@@ -62,5 +70,5 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Export** DuckDB query results in `CSV` and `JSON` data formats
 - **Use** [PRQL Code Lens](https://github.com/RandomFractals/prql-pro-tools#prql-code-lens) from our new [PRQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) collection to generate and run SQL queries on active DuckDB connection
 - **Explore** new `employees.duckdb` demo data, PRQL and SQL sample queries
-- **Run** sample `chicago-crimes` and `gbif-observations` [PRQL](https://prql-lang.org/) and SQL queries on Github and AWS S3 hosted `parquet` data files
+- **Run** sample `chicago-crimes` and `gbif-observations` [PRQL](https://prql-lang.org/) and SQL queries on GitHub and AWS S3 hosted `parquet` data files
 - **Use** new `DuckDB Tools` views and metadata shortcut commands from VS Code `Command Palette...`
