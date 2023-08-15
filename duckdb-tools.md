@@ -64,7 +64,7 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Query** remote `CSV`, `Parquet`, and `JSON` data files with [DuckDB HTTPFS](https://duckdb.org/docs/extensions/httpfs.html) extension and new [DuckDB JSON](https://duckdb.org/2023/03/03/json.html) extension
 - **Create** in-memory DuckDB tables from remote data sources and query results
 - **Manage** DuckDB v0.8.1 connections in SQL Tools Connections Explorer
-- **Auto-complete** SQL keywords, DuckDB instance table names, column names, and view names for active DuckDB connections in VS Code SQL editor
+- **Auto-complete** SQL keywords, DuckDB instance schemas, table names, column names, and view names for active DuckDB connections in VS Code SQL editor
 - **Save** named SQL query Bookmarks
 - **Use** SQL Query History
 - **Export** DuckDB query results in `CSV` and `JSON` data formats
@@ -72,3 +72,32 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Explore** new `employees.duckdb` demo data, PRQL and SQL sample queries
 - **Run** sample `chicago-crimes` and `gbif-observations` [PRQL](https://prql-lang.org/) and SQL queries on GitHub and AWS S3 hosted `parquet` data files
 - **Use** new `DuckDB Tools` views and metadata shortcut commands from VS Code `Command Palette...`
+
+## DuckDB Pro Tools Installation
+
+**DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and our new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools) are available to our [Pro Sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
+
+All of our GitHub **Pro** sponsors get invited as collaborators to our private [Pro Data Tools](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) repositories, and will be notified about the upcoming updates, new releases, additions, and new [Data Notebook Pro Tools](https://randomfractals.github.io/pro-data-tools/#data-notebook-pro-tools) extension we'll be releasing later this summer.
+
+To install **DuckDB Pro Tools**, download the latest `duckdb-pro-tools-x.x.x.vsix` from the attached **Assets** in repository [releases](https://github.com/RandomFractals/duckdb-pro-tools/releases).
+
+Use VS Code IDE [Install from VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix) feature to install downloaded **DuckDB Pro Tools** extension package in VS Code or any other `VSIX`-compatible IDE. **DuckDB Pro Tools** work in [VSCodium](https://vscodium.com/) too.
+
+![DuckDB Pro Tools VS Code Extension Info](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-tools-extensions.png?raw=true)
+
+The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) extension you see in the **Installed** DuckDB extensions image above is our Free Trial public version of **DuckDB Tools** that only supports older DuckDB v0.7.1 and limited set of features, demo DuckDB files and sample queries to run.
+
+## DuckDB Upgrade
+
+If you already have the free public DuckDB SQL Tools installed, and configured new **DuckDBPro** connection to use with this **DuckDB Pro Tools** extension, you'll be prompted to update `duckdb-async` library to v0.8.1 to use the latest DuckDB version and features.
+
+You might need to restart VS Code after duckdb library update for the new DuckDB v0.8.1 connection and queries to work. Below is a quick demo of that DuckDB library update process.
+
+![DuckDB Pro Tools Libraries Update](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-upgrade.gif?raw=true)
+
+**Note**: **DuckDB Pro Tools** use [DuckDB Node.js API](https://github.com/duckdb/duckdb/tree/master/tools/nodejs) and require a local [Node.js installation](https://nodejs.org/en/download) to query DuckDB instances.
+
+Download and install **Node.js** from the official [node.js downloads](https://nodejs.org/en/download) page. Node.js is used as a local web server to host local data and DuckDB files. Node.js will install **npm** tool we use to install `duckdb-async` library to establish DuckDB connections.
+
+We use Node.js DuckDB library instead of the limited DuckDB WASM browser JS library other similar DuckDB data tools use to enable faster data imports and loading via multi-threaded [`node-gyp`](https://github.com/nodejs/node-gyp) DuckDB native API interface.
+
