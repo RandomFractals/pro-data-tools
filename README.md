@@ -129,3 +129,13 @@ We plan to publish new **Pro Data Tools** updates and releases monthly. The best
 We created new combined **Pro Data Tools** [changelog](https://randomfractals.github.io/pro-data-tools/CHANGELOG) to capture all the premium VS Code extensions and versions with detailed features list released to our [Pro sponsors](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=295482) on GitHub this year.
 
 📜 [https://github.com/RandomFractals/pro-data-tools/blob/main/CHANGELOG.md](https://github.com/RandomFractals/pro-data-tools/blob/main/CHANGELOG.md)
+
+# Feedback
+
+Please use our new [Pro Data Tools GitHub Discussions](https://github.com/RandomFractals/duckdb-sql-tools/discussions) portal to submit your feedback, share examples of how you are using our public VS Code [data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) and new **Pro Data Tools**, or request new trivial and premium features. Our goal with these generic Data Tools 🛠️ and SQL Tools extensions is to make local and remote data more accessible and easier to use and visualize for all the devs and data scientists out there using VS Code IDE, VSCodium and Azure Data Studio.
+
+# Support
+
+Become a [Fan or a Pro Sponsor](https://github.com/sponsors/RandomFractals) on GitHub to support our dev work on these DuckDB Tools and other [Random Fractals, Inc. code and data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) if you find them useful, educational, or enhancing your daily dataViz dev code workflows and exploratory data analysis experience.
+
+💖 [https://github.com/sponsors/RandomFractals](https://github.com/sponsors/RandomFractals)
