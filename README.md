@@ -120,3 +120,9 @@ Using different [**Data Table Renderers**](https://marketplace.visualstudio.com/
 
 ...
 
+## Future Pro Data Tools Releases
+
+We plan to publish new **Pro Data Tools** updates and releases monthly. The best way to keep up to date on the new features and enhancements added to **DuckDB Pro Tools** extension, [PRQL Pro Tools](https://github.com/RandomFractals/prql-pro-tools), recently released [Markdown SQL Pro Tools](https://twitter.com/hashtag/MarkdownSQLProTools?src=hashtag_click), and the upcoming [Data Notebook Pro](https://twitter.com/search?f=live&q=(%23DataNotebook)%20(from%3ATarasNovak)&src=typed_query) extension is to follow us on X/Twitter [@TarasNovak](https://twitter.com/TarasNovak), or follow [Data Samurai](https://vis.social/@dataSamurai) on Vis Social Mastodon. We share new [Pro Data Tools](https://twitter.com/search?f=live&q=(data%20OR%20pro%20OR%20tools)%20(from%3ATarasNovak)&src=typed_query) related demos and content there almost daily.
+
+![Taras Novak on Twitter](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/taras-novak-twitter.png?raw=true)
+

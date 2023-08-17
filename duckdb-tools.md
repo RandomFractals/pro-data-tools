@@ -335,12 +335,6 @@ The following [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/sett
 | ```"sqltools.results.limit": 10000``` | Maximum number of records to return in results. SQL Tools defaults to displaying only 50 records in query results view. Changing this limit setting to 1000 or 10000 will show more data rows to inspect in result views. |
 | ```"sqltools.results.location": "current"``` | Defines the editor group to use for result table views. SQL Tools displays all results in the next editor group to show results on the side next to the active SQL query editor. Changing this setting to `current` will display results in the same editor group and display more result columns. |
 
-# Future Pro Data Tools Releases
-
-We plan to publish new **Pro Data Tools** updates and releases monthly. The best way to keep up to date on the new features and enhancements added to **DuckDB Pro Tools** extension, [PRQL Pro Tools](https://github.com/RandomFractals/prql-pro-tools), recently released [Markdown SQL Pro Tools](https://twitter.com/hashtag/MarkdownSQLProTools?src=hashtag_click), and the upcoming [Data Notebook Pro](https://twitter.com/search?f=live&q=(%23DataNotebook)%20(from%3ATarasNovak)&src=typed_query) extension is to follow us on twitter [@TarasNovak](https://twitter.com/TarasNovak), or follow [Data Samurai](https://vis.social/@dataSamurai) on Vis Social Mastodon. We share new [Pro Data Tools](https://twitter.com/search?f=live&q=(data%20OR%20pro%20OR%20tools)%20(from%3ATarasNovak)&src=typed_query) related demos and content there almost daily.
-
-![Taras Novak on Twitter](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/taras-novak-twitter.png?raw=true)
-
 # Feedback
 
 Please use our [DuckDB SQL Tools GitHub Discussions](https://github.com/RandomFractals/duckdb-sql-tools/discussions) portal to submit your feedback, share examples of how you are using our DuckDB VS Code extensions, or request new trivial and premium features. Our goal with these DuckDB SQL and Pro Data Tools extensions is to make DuckDB more accessible and easier to use in VS Code IDE.
