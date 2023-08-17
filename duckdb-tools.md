@@ -87,7 +87,7 @@ All of our GitHub **Pro** sponsors get invited as collaborators to our private [
 
 To install **DuckDB Pro Tools**, download the latest `duckdb-pro-tools-x.x.x.vsix` from the attached **Assets** in repository [releases](https://github.com/RandomFractals/duckdb-pro-tools/releases).
 
-Use VS Code IDE [Install from VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix) feature to install downloaded **DuckDB Pro Tools** extension package in VS Code or any other `VSIX`-compatible IDE. **DuckDB Pro Tools** work in [VSCodium](https://vscodium.com/) too.
+Use VS Code IDE [Install from VSIX](https://code.visualstudio.com/docs/editor/extension-marketplace#_install-from-a-vsix) feature to install downloaded **DuckDB Pro Tools** extension package in VS Code or any other `VSIX`-compatible IDE. **DuckDB Pro Tools** work in [VSCodium](https://vscodium.com/) and the latest version of [Azure Data Studio](https://github.com/Microsoft/azuredatastudio) IDE.
 
 ![DuckDB Pro Tools VS Code Extension Info](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-tools-extensions.png?raw=true)
 
@@ -314,7 +314,7 @@ You can adjust the amount of RAM allocated to VS Code IDE to enable opening larg
 
 [SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) extension provides many configuration [Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) users can toggle to change database connection and tree view display options, sql formatting, and results display.
 
-The following [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) were used while creating and testing this **DuckDB Pro Tools** extension and are recommended for working with DuckDB instances efficiently. We suggest you set these preferences in User Settings in VS Code by navigating to `File -> Preferences -> Settings -> User -> Extensions -> SQLTools`, or adding them to your global VS Code `settings.json` config file using the JSON code snippet below:
+The following [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) were used while creating and testing **DuckDB Pro Tools** extension and are recommended for working with DuckDB instances efficiently. We suggest you set these preferences in User Settings in VS Code by navigating to `File -> Preferences -> Settings -> User -> Extensions -> SQLTools`, or adding them to your global VS Code `settings.json` config file using the JSON code snippet below:
 
 ```json
 {
