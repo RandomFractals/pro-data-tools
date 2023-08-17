@@ -136,6 +136,6 @@ Please use our new [Pro Data Tools GitHub Discussions](https://github.com/Random
 
 # Support
 
-Become a [Fan or a Pro Sponsor](https://github.com/sponsors/RandomFractals) on GitHub to support our dev work on these DuckDB Tools and other [Random Fractals, Inc. code and data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) if you find them useful, educational, or enhancing your daily dataViz dev code workflows and exploratory data analysis experience.
+Become a [Fan or a Pro Sponsor](https://github.com/sponsors/RandomFractals) on GitHub to support our dev work on these Data Tools and other [Random Fractals, Inc. code and data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) if you find them useful, educational, or enhancing your daily dataViz dev code workflows and exploratory data analysis experience.
 
 💖 [https://github.com/sponsors/RandomFractals](https://github.com/sponsors/RandomFractals)
