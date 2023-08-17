@@ -16,6 +16,8 @@ Our [**Pro Data Tools**](https://www.linkedin.com/feed/hashtag/?keywords=prodata
 
 ![DuckDB Pro Tools Views](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/duckdb-pro-tools-views.gif?raw=true)
 
+You can read more about the free and public [DuckDB SQL Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-sql-tools) *Preview* VS Code extension and new Premium [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension capabilites and features on our new [DuckDB Tools](https://randomfractals.github.io/pro-data-tools/duckdb-tools) documentation page.
+
 ## PRQL Pro Tools
 
 Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub also get access to the Premium [PRQL Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=prqlprotools) VS Code extension. **PRQL Pro Tools** extension comes with a custom [PRQL Code Lens](https://www.linkedin.com/feed/hashtag/?keywords=prqlcodelens) SQL Tools plugin that allows you to run [PRQL](https://prql-lang.org/) queries for the supported PRQL target [SQL dialects](https://prql-lang.org/book/language-features/target.html#supported-dialects) **directly** using any of the supported SQL Tools extension drivers for the different database management systems.
