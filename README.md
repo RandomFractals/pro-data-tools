@@ -132,7 +132,7 @@ We created new combined **Pro Data Tools** [changelog](https://randomfractals.gi
 
 # Feedback
 
-Please use our new [Pro Data Tools GitHub Discussions](https://github.com/RandomFractals/duckdb-sql-tools/discussions) portal to submit your feedback, share examples of how you are using our public VS Code [data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) and new **Pro Data Tools**, or request new trivial and premium features. Our goal with these generic Data Tools 🛠️ and SQL Tools extensions is to make local and remote data more accessible and easier to use and visualize for all the devs and data scientists out there using VS Code IDE, VSCodium and Azure Data Studio.
+Please use our new [Pro Data Tools GitHub Discussions](https://github.com/RandomFractals/pro-data-tools/discussions) portal to submit your feedback, share examples of how you are using our public VS Code [data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc) and new **Pro Data Tools**, or request new trivial and premium features. Our goal with these generic Data Tools 🛠️ and SQL Tools extensions is to make local and remote data more accessible and easier to use and visualize for all the devs and data scientists out there using VS Code IDE, VSCodium and Azure Data Studio.
 
 # Support
 
