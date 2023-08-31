@@ -199,7 +199,7 @@ Quick DuckDB JSON extension query example and steps to parse and load remote `JS
 
 ![DuckDB Pro Tools JSON Data Load](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-json-data-load.gif?raw=true)
 
-**Note**: the US airports demo data in example above is from our VS Code [Data Table Renderers](https://github.com/RandomFractals/vscode-data-table/tree/main/data) extension we will use later in the upcoming [Data Notebook Pro](https://twitter.com/search?q=(%23DataNotebook)%20(from%3ATarasNovak)&src=typed_query&f=live) extension to query and display tabular data results from many different data sources, including DuckDB. New **Data Notebook Pro** extension will be released in Q3 of 2023.
+**Note**: the US airports demo data in example above is from our VS Code [Data Table Renderers](https://github.com/RandomFractals/vscode-data-table/tree/main/data) extension we will use later in the upcoming [Data Notebook Pro](https://twitter.com/search?q=(%23DataNotebook)%20(from%3ATarasNovak)&src=typed_query&f=live) extension to query and display tabular data results from many different data sources, including DuckDB. New **Data Notebook Pro** extension will be released in Q4 of 2023.
 
 Quick Data Notebook extension info preview with a simple Data Connections side panel and a few commands already implemented for that custom VS Code Notebook extension we plan to release with SQL and PRQL queries support.
 

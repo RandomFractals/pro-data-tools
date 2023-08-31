@@ -104,7 +104,7 @@ Setting up demo SQLite database connection and using our **SQL Code Lenses** to 
 
 ## Data Notebook Pro Tools
 
-The new [**Data Notebook Pro Tools**](https://twitter.com/search?q=(%23DataNotebooks)%20(from%3ATarasNovak)&src=typed_query) extension from our Premium **Pro Data Tools** extensions pack will be released later this summer for our [**Pro sponsors**](https://github.com/sponsors/RandomFractals) on GitHub.
+The new [**Data Notebook Pro Tools**](https://twitter.com/search?q=(%23DataNotebooks)%20(from%3ATarasNovak)&src=typed_query) extension from our Premium **Pro Data Tools** extensions pack will be released later this year for our [**Pro sponsors**](https://github.com/sponsors/RandomFractals) on GitHub.
 
 **Data Notebook Pro** extension integrates SQL Tools connections, supported database management systems, our [**Data Table Renderers**](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.vscode-data-table) and VS Code Jupyter Notebook user interface to view and run SQL queries from `.sql` files and `.md` markdown documents with SQL code blocks using native VS Code Notebook View.
 
