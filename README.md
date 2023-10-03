@@ -20,7 +20,7 @@ You can read more about the free and public [DuckDB SQL Tools](https://github.co
 
 ## PRQL Pro Tools
 
-Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub also get access to the Premium [PRQL Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=prqlprotools) VS Code extension. **PRQL Pro Tools** extension comes with a custom [PRQL Code Lens](https://www.linkedin.com/feed/hashtag/?keywords=prqlcodelens) SQL Tools plugin that allows you to run [PRQL](https://prql-lang.org/) queries for the supported PRQL target [SQL dialects](https://prql-lang.org/book/language-features/target.html#supported-dialects) **directly** using any of the supported SQL Tools extension drivers for the different database management systems.
+Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) on GitHub also get access to the Premium [PRQL Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=prqlprotools) VS Code extension. **PRQL Pro Tools** extension comes with a custom [PRQL Code Lens](https://www.linkedin.com/feed/hashtag/?keywords=prqlcodelens) SQL Tools plugin that allows you to run [PRQL](https://prql-lang.org/) queries for the supported PRQL target [SQL dialects](https://prql-lang.org/book/project/target.html#dialects) **directly** using any of the supported SQL Tools extension drivers for the different database management systems.
 
 ![PRQL Pro Tools Code Lens](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/prql-code-lens-pro-tools.gif?raw=true)
 
