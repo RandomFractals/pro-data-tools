@@ -14,12 +14,12 @@ The free and public [DuckDB SQL Tools](https://marketplace.visualstudio.com/item
 
 ## DuckDB SQL Tools *Preview* Features
 
-[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Peview* extension v1.1.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with DuckDB v0.7.1 instances:
+[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Peview* extension v1.2.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with DuckDB v0.8.1 instances:
 
-- **Connect** to a local DuckDB v0.7.1 file instance
+- **Connect** to a local DuckDB v0.8.1 file instance
 - **Create** new in-memory DuckDB instance
-- **View** DuckDB v0.7.1 tables, columns, and views
-- **Run** SQL queries on open DuckDB v0.7.1 connections
+- **View** DuckDB v0.8.1 tables, columns, and views
+- **Run** SQL queries on open DuckDB v0.8.1 connections
 - **Attach** SQLite database files to in-memory DuckDB instances
 - **Query** remote `CSV` and `Parquet` data files with [DuckDB HTTPFS](https://duckdb.org/docs/extensions/httpfs.html) extension
 - **Create** in-memory DuckDB tables from remote data sources and query results
@@ -91,7 +91,7 @@ Use VS Code IDE [Install from VSIX](https://code.visualstudio.com/docs/editor/ex
 
 ![DuckDB Pro Tools VS Code Extension Info](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-tools-extensions.png?raw=true)
 
-The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) extension you see in the **Installed** DuckDB extensions image above is our Free Trial public version of **DuckDB Tools** that only supports older DuckDB v0.7.1 and limited set of features, demo DuckDB files and sample queries to run.
+The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) extension you see in the **Installed** DuckDB extensions image above is our Free Trial public version of **DuckDB Tools** that only supports older DuckDB v0.8.1 and limited set of features, demo DuckDB files and sample queries to run.
 
 ## DuckDB Upgrade
 
