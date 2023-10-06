@@ -2,6 +2,17 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## DuckDB SQL Tools v1.2.0 - [2023-10-06]
+
+- Update free public DuckDB SQL Tools Preview extension to support DuckDB v0.8.1
+- Update SQL Tools drivers link and screenshot in docs
+- Add DuckDB Pro Tools View Commands demo gif to DuckDB SQL Tools documentation
+- Update PRQL Pro Tools links in DuckDB SQL Tools documentation
+- Update new Markdown SQL Pro Tools info in DuckDB SQL Tools documentation
+- Add new Data Notebook Pro Tools info to DuckDB SQL Tools documentation
+- Update Random Fractals Data Tools and new Pro Data Tools sections in DuckDB SQL Tools documentation
+- Package and publish DuckDB SQL Tools v1.2.0 release with DuckDB v0.8.1 support
+
 ## Markdown SQL Pro Tools v1.3.0 - [2023-08-14]
 
 - Skip adding top level `Select All`, `Extract All`, and `Bookmark All` SQL code lenses to open markdown documents without SQL code blocks
