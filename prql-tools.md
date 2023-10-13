@@ -52,7 +52,7 @@ See [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) doc
 
 ### Demo Data
 
-**DuckDB Pro Tools** repository has [sample `/data`](https://github.com/RandomFractals/duckdb-sql-tools#demo-data) folder you can use to download SQLite and DuckDB demo `chinook` database files and sample PRQL queries you can run.
+**DuckDB SQL Tools** repository has [sample `/data`](https://github.com/RandomFractals/duckdb-sql-tools/tree/main/data) folder you can use to download SQLite and DuckDB demo `chinook` database files and sample PRQL queries you can run.
 
 ![Chinook DB Data and Queries](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-sql-tools-data.png?raw=true)
 
@@ -62,7 +62,7 @@ See [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) doc
 
 Base [PRQL VScode](https://github.com/PRQL/prql-vscode) extension has a few new PRQL [examples](https://github.com/PRQL/prql-vscode/tree/main/examples) that demo new [PRQL compiler v0.6](https://github.com/PRQL/prql/releases) features such as `loop`, `case`, `func` and using variables with `let`.
 
-We also recently added a couple of [GBIF](https://github.com/gbif/occurrence/blob/master/aws-public-data.md) dataset [PRQL query examples](https://github.com/RandomFractals/duckdb-sql-tools/tree/main/data/gbif) to demo how to load and query remote public datasets hosted by AWS with PRQL Code Lens extension and [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools):
+We also recently added a couple of [GBIF](https://github.com/gbif/occurrence/blob/master/aws-public-data.md) dataset [PRQL query examples](https://github.com/RandomFractals/duckdb-sql-tools/tree/main/data/gbif) to demo loading and querying remote public datasets hosted by AWS with PRQL Code Lens extension and [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools):
 
 ![GBIF PRQL DuckDB Pro Tools Examples](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/gbif-top-10-duck-species-observations-prql.gif?raw=true)
 
