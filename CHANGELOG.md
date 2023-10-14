@@ -2,6 +2,12 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## PRQL Pro Tools v1.3.0 [2023-10-14]
+
+- Update PRQL JS library to v0.9.5
+- Update PRQL query examples to work with `prql-js` v0.9.5
+- Package and publish PRQL Pro Tools v1.3.0 release
+
 ## DuckDB SQL Tools v1.2.0 - [2023-10-06]
 
 - Update free public DuckDB SQL Tools Preview extension to support DuckDB v0.8.1
