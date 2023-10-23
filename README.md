@@ -128,7 +128,7 @@ We plan to publish new **Pro Data Tools** updates and releases monthly. The best
 
 ## Pro Data Tools Changelog
 
-We also created new combined **Pro Data Tools** [changelog](https://randomfractals.github.io/pro-data-tools/CHANGELOG) to capture all the premium VS Code extensions and versions with detailed features list released to our [Pro sponsors](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=295482) on GitHub this year.
+We also created new combined **Pro Data Tools** [changelog](https://randomfractals.github.io/pro-data-tools/CHANGELOG) to capture all the premium VS Code extensions and versions with detailed features list released to our [Pro sponsors](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) on GitHub this year.
 
 📜 [https://github.com/RandomFractals/pro-data-tools/blob/main/CHANGELOG.md](https://github.com/RandomFractals/pro-data-tools/blob/main/CHANGELOG.md)
 
