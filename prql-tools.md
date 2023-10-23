@@ -30,7 +30,7 @@ Some of the SQL Tools extensions, such as [SQLite](https://vscode-sqltools.mteix
 
 ## PRQL Pro Tools Extension Pack
 
-**PRQL Pro Tools** is a private beta collection of custom PRQL VS Code extensions for our monthly [**Pro**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) supporters on github, and can be viewed as an extension pack to enhance PRQL development and runtime workflow connected to the different database management system via SQL Tools extension and database plugins.
+**PRQL Pro Tools** is a private beta collection of custom PRQL VS Code extensions for our monthly [**Pro**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) supporters on github, and can be viewed as an extension pack to enhance PRQL development and runtime workflow connected to the different database management system via SQL Tools extension and database plugins.
 
 ## PRQL Code Lens
 
@@ -62,7 +62,7 @@ See [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) doc
 
 Base [PRQL VScode](https://github.com/PRQL/prql-vscode) extension has a few new PRQL [examples](https://github.com/PRQL/prql-vscode/tree/main/examples) that demo new [PRQL compiler v0.6](https://github.com/PRQL/prql/releases) features such as `loop`, `case`, `func` and using variables with `let`.
 
-We also recently added a couple of [GBIF](https://github.com/gbif/occurrence/blob/master/aws-public-data.md) dataset [PRQL query examples](https://github.com/RandomFractals/duckdb-sql-tools/tree/main/data/gbif) to demo loading and querying remote public datasets hosted by AWS with PRQL Code Lens extension and [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools):
+We also recently added a couple of [GBIF](https://github.com/gbif/occurrence/blob/master/aws-public-data.md) dataset [PRQL query examples](https://github.com/RandomFractals/duckdb-sql-tools/tree/main/data/gbif) to demo loading and querying remote public datasets hosted by AWS with **PRQL Code Lens** extension and [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools):
 
 ![GBIF PRQL DuckDB Pro Tools Examples](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/gbif-top-10-duck-species-observations-prql.gif?raw=true)
 
@@ -75,18 +75,18 @@ Future versions of **PRQL Pro Tools** will include custom **PRQL Notebook** exte
 
 ## PRQL Terminal
 
-We also plan to release a custom version of [**PRQL Terminal**](https://twitter.com/search?f=live&q=(%23PRQLTerminal)%20(from%3ATarasNovak)&src=typed_query) extension as part of the **PRQL Pro Tools** extension pack for our monthly [**Pro**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) supporters later this year.
+We also plan to release a custom version of **PRQL Terminal** extension as part of the **PRQL Pro Tools** extension pack for our monthly [**Pro**](https://github.com/sponsors/RandomFractals/sponsorships?sponsor=RandomFractals&tier_id=18884) supporters later this year.
 
-**PRQL Terminal** will have a walk-through to install `prqlc` CLI tools and will integrate it with the built-in VS Code File Manager and Terminal panel to run PRQL queries from the commannd line with VS Code commands, shortcuts, and `.prql` file context menus for the CLI fans.
+**PRQL Terminal** will have a walk-through to install `prqlc` CLI tools and will integrate it with the built-in VS Code File Manager and Terminal panel to run PRQL queries from the command line with VS Code commands, shortcuts, and `.prql` file context menus for the CLI fans.
 
 ![PRQL Terminal](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/prql-terminal.png?raw=true)
 
 ## Installation and Support
 
-You can get access to **PRQL Pro Tools** by becoming a **Pro** [sponsor](https://github.com/sponsors/RandomFractals) of our work on GitHub.
+You can get access to **PRQL Pro Tools** by becoming a [**Pro** sponsor](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our **Pro Data Tools** work on GitHub.
 
 All Pro sponsors get invited as collaborators to our private [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools/tree/main#pro-data-tools) repositories, and will be notified about the upcoming updates, new releases, additions, and new [Data Notebook Pro](https://github.com/RandomFractals/pro-data-tools/tree/main#data-notebook-pro-tools) extension we'll be releasing later this year.
 
-Help us reach our goal of getting at least 10 Pro sponsors this month. 🙏
+Help us reach our goal of getting 20 Pro monthly sponsors on GitHub. 🙏
 
 💖 https://github.com/sponsors/RandomFractals
