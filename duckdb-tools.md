@@ -14,7 +14,7 @@ The free and public [DuckDB SQL Tools](https://marketplace.visualstudio.com/item
 
 ## DuckDB SQL Tools *Preview* Features
 
-[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Peview* extension v1.2.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with DuckDB v0.8.1 instances:
+[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Preview* extension v1.2.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with DuckDB v0.8.1 instances:
 
 - **Connect** to a local DuckDB v0.8.1 file instance
 - **Create** new in-memory DuckDB instance
@@ -45,7 +45,7 @@ Install [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools) *
 
 [**Pro Data Tools**](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) is our new Visual Studio Code extensions pack with premium SQL query and data view features created for the monthly [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our extensions on GitHub.
 
-Our **Pro Data Tools** for devs and data scientists using VS Code IDE include **DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools).
+Our **Pro Data Tools** for devs and data scientists using VS Code IDE include **DuckDB Pro Tools**, [PRQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools).
 
 ![Pro Data Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/pro-data-tools.png?raw=true)
 
@@ -59,7 +59,7 @@ Our **Pro Data Tools** for devs and data scientists using VS Code IDE include **
 
 ## DuckDB Pro Tools Features
 
-The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?keywords=duckdbpro) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
+The latest version of [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
 
 - **Connect** to a local DuckDB [v0.8.1](https://github.com/duckdb/duckdb/releases/tag/v0.8.1) instance
 - **Create** new in-memory DuckDB instance
@@ -77,13 +77,13 @@ The latest version of [DuckDB Pro Tools](https://www.linkedin.com/feed/hashtag/?
 - **Use** [PRQL Code Lens](https://github.com/RandomFractals/prql-pro-tools#prql-code-lens) from our new [PRQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) collection to generate and run SQL queries on active DuckDB connection
 - **Explore** new `employees.duckdb` demo data, PRQL and SQL sample queries
 - **Run** sample `chicago-crimes` and `gbif-observations` [PRQL](https://prql-lang.org/) and SQL queries on GitHub and AWS S3 hosted `parquet` data files
-- **Use** new `DuckDB Tools` views and metadata shortcut commands from VS Code `Command Palette...`
+- **Use** over 30 built-in `DuckDB Tools` views and metadata shortcut commands from VS Code `Command Palette...`
 
 ## DuckDB Pro Tools Installation
 
-Become a [Pro Sponsor](https://github.com/sponsors/RandomFractals) of our new **Pro Data Tools** work on GitHub to access **DuckDB Pro Tools**, [PRQL Code Lens](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and our new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools) releases and extension `.vsix` installation packages.
+Become a [Pro Sponsor](https://github.com/sponsors/RandomFractals/sponsorships?tier_id=18884) of our new **Pro Data Tools** work on GitHub to access **DuckDB Pro Tools**, [PRQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#prql-pro-tools) and our new [Markdown SQL Pro Tools](https://randomfractals.github.io/pro-data-tools/#markdown-sql-pro-tools) releases and extension `.vsix` installation packages.
 
-All of our GitHub **Pro** sponsors get invited as collaborators to our private [Pro Data Tools](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) repositories, and will be notified about the upcoming updates, new releases, additions, and new [Data Notebook Pro Tools](https://randomfractals.github.io/pro-data-tools/#data-notebook-pro-tools) extension we'll be releasing later this summer.
+All of our GitHub **Pro** sponsors get invited as collaborators to our private [Pro Data Tools](https://randomfractals.github.io/pro-data-tools/#pro-data-tools) repositories, and will be notified about the upcoming updates, new releases, additions, and new [Data Notebook Pro Tools](https://randomfractals.github.io/pro-data-tools/#data-notebook-pro-tools) extension we'll be releasing later this year.
 
 To install **DuckDB Pro Tools**, download the latest `duckdb-pro-tools-x.x.x.vsix` from the attached **Assets** in repository [releases](https://github.com/RandomFractals/duckdb-pro-tools/releases).
 
@@ -169,7 +169,7 @@ Additionally, **DuckDB Pro Tools** v1.1.0 and higher display primary columns in 
 
 # DuckDB View Commands
 
-**DuckDB Pro Tools** v1.2.0 added over 30 new DuckDB views and metadata shortcut commands to the Command Palette you can access via `ctrl/cmd+shift+p` shortcut in VS Code or from `View -> Commnad Palette...` menu by typing `DuckDB Tools` in the `>` command prompt:
+**DuckDB Pro Tools** v1.2.0 added over 30 built-in DuckDB views and metadata shortcut commands to the Command Palette you can access via `ctrl/cmd+shift+p` shortcut in VS Code or from `View -> Commnad Palette...` menu by typing `DuckDB Tools` in the `>` command prompt:
 
 ![DuckDB Tools View Commands](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-view-commands.gif?raw=true)
 
