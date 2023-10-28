@@ -91,7 +91,7 @@ Use VS Code IDE [Install from VSIX](https://code.visualstudio.com/docs/editor/ex
 
 ![DuckDB Pro Tools VS Code Extension Info](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-tools-extensions.png?raw=true)
 
-The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) extension you see in the **Installed** DuckDB extensions image above is our Free Trial public version of **DuckDB Tools** that only supports older DuckDB v0.8.1 and limited set of features, demo DuckDB files and sample queries to run.
+The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) extension you see in the **Installed** DuckDB extensions image above is our Free Trial public version of **DuckDB Tools** that only supports limited set of features, demo DuckDB files and sample queries to run.
 
 ## DuckDB Upgrade
 
@@ -101,7 +101,7 @@ You might need to restart VS Code after duckdb library update for the new DuckDB
 
 ![DuckDB Pro Tools Libraries Update](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-upgrade.gif?raw=true)
 
-**Note**: **DuckDB Pro Tools** use [DuckDB Node.js API](https://github.com/duckdb/duckdb/tree/master/tools/nodejs) and require a local [Node.js installation](https://nodejs.org/en/download) to query DuckDB instances.
+**Note**: **DuckDB Pro Tools** use [DuckDB Node.js API](https://github.com/duckdb/duckdb-node) and require a local [Node.js installation](https://nodejs.org/en/download) to query DuckDB instances.
 
 Download and install **Node.js** from the official [node.js downloads](https://nodejs.org/en/download) page. Node.js is used as a local web server to host local data and DuckDB files. Node.js will install **npm** tool we use to install `duckdb-async` library to establish DuckDB connections.
 
