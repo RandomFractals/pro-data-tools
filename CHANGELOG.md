@@ -2,6 +2,31 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## SQLite Pro Tools v1.0.0 - [2023-11-27]
+
+- Create new SQLite Tools VS Code extension codebase from SQL Tools and drivers monorepo
+- Update SQLite3 Node JS library to the latest v5.1.6 version
+- Create custom SQLite Pro Tools extension and database connection display icons
+- Add column data type icons display for tables and views in SQL Tools Connection Explorer
+- Display SQLite database Indexes in SQL Tools Connection Explorer
+- Display SQLite Modules in SQL Tools Connection Explorer
+- Add Random Fractals Inc. license file
+- Replace Tables and Views folder icons with built-in VS Code windows and layers icons in SQL Tools Connection Explorer
+- Add SQLite Settings/Compile Options display to SQL Tools Connection Explorer
+- Create `/data` folder with demo SQLite database to use for testing
+- Create `SQLite Tools:` shortcut commands to list all databases, tables, views, indexes, foreign keys, triggers, configuration options, etc.
+- Refine SQLite database schema queries in `queries.ts`
+- Add Car Company demo database for testing
+- Add `SQLite Tools: View DB Stats` shortcut command
+- Display index table and column name in `View All Indexes` SQLite Tools command and SQL query
+- Add `SQLite Tools: View All Functions` shortcut command
+- Add `SQLite Tools: View Module List` shortcut command
+- Add `SQLite Tools: View Pragma List` shortcut command
+- Display SQLite Functions list in SQL Tools Connection Explorer tree view
+- Document SQLite Pro Tools features, views, configuration settings, installation, demo data and commands in `README.md`
+- Create SQLite Pro Tools `CHANGELOG.md` for the first private beta version extension package release
+- Package and publish new SQLite Pro Tools extension
+
 ## DuckDB SQL Tools v1.3.0 - [2023-10-27]
 
 - Update DuckDB SQL Tools and demo DuckDB configs to use new DuckDB v0.9.1 NodeJS libraries
