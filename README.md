@@ -34,7 +34,7 @@ Our [**Pro sponsors**](https://github.com/sponsors/RandomFractals/sponsorships?t
 
 ## Markdown SQL Pro Tools
 
-**Markdown SQL Pro Tools** extension adds custom SQL [Code Lenses](https://code.visualstudio.com/api/language-extensions/programmatic-language-features#codelens-show-actionable-context-information-within-source-code) to SQL code blocks in standard SQL and various markdown documents in VS Code IDE.
+[**Markdown SQL Pro Tools**](https://github.com/RandomFractals/pro-data-tools/blob/main/markdown-sql-tools.md) extension adds custom SQL [Code Lenses](https://code.visualstudio.com/api/language-extensions/programmatic-language-features#codelens-show-actionable-context-information-within-source-code) to SQL code blocks in standard SQL and various markdown documents in VS Code IDE.
 
 The provided **SQL Code Lenses** include top-level SQL and markdown document `Execute All`, `Select All`, `Extract All`, `Bookmark All` SQL code lenses, `Execute`, `Select`, and `Copy` SQL code block lenses, and `Create` New SQL document from SQL code block lens.
 
