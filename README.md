@@ -10,6 +10,8 @@
 
 ![Pro Data Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/pro-data-tools.png?raw=true)
 
+![SQLite Pro Tools VS Code Extension Info](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/sqlite-tools-extension.png?raw=true)
+
 ## DuckDB Pro Tools
 
 Our [**Pro Data Tools**](https://vis.social/tags/ProDataTools) 🛠️ include [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension that adds advanced [DuckDB](https://duckdb.org/) connection features and support to VSCode IDE, and provides database schemas display, DuckDB extensions and settings views, information schema and catalog views, SQL query API and user interfaces integrated with the popular SQL Tools extension, SQL query editor, SQL language server, and VS Code data processing tools.
@@ -17,6 +19,12 @@ Our [**Pro Data Tools**](https://vis.social/tags/ProDataTools) 🛠️ include [
 ![DuckDB Pro Tools Views](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/duckdb-pro-tools-views.gif?raw=true)
 
 You can read more about the free and public [DuckDB SQL Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-sql-tools) *Preview* VS Code extension and new Premium [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension capabilites and features in our new [DuckDB Tools](https://randomfractals.github.io/pro-data-tools/duckdb-tools) documentation page.
+
+## SQLite Pro Tools
+
+**Pro Data Tools** VS Code extensions also include [**SQLite Pro Tools**](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md). **SQLite Pro Tools** provide over a dozen of common SQLite database shortcut [Commands](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md#commands), display table column data type and primary key indicators, SQLite database [Indexes](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md#indexes), [Modules](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md#modules), [Configuration Settings](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md#configuration-settings) and [Functions](https://github.com/RandomFractals/pro-data-tools/blob/main/sqlite-tools.md#functions).
+
+![SQLite Pro Tools Views](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/sqlite-tools.png?raw=true)
 
 ## PRQL Pro Tools
 
