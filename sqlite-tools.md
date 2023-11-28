@@ -73,7 +73,7 @@ SQLite configuration settings/[compile options](https://duckdb.org/docs/sql/conf
 
 # Demo Data
 
-**SQLite Pro Tools** extension documentation repository contains sample `/data` folder with the popular `chinook` database files you can experiment with.
+**SQLite Pro Tools** extension documentation repository contains sample `/data` folder with the popular `chinook` database files and [`car-company`](https://github.com/dtaivpp/car_company_database) SQLite database files and scripts you can experiment with.
 
 # In-Memory SQLite DB
 
