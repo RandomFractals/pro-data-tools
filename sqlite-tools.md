@@ -104,10 +104,6 @@ The following [SQL Tools Settings](https://vscode-sqltools.mteixeira.dev/en/sett
 | ```"sqltools.results.limit": 10000``` | Maximum number of records to return in results. SQL Tools defaults to displaying only 50 records in query results view. Changing this limit setting to 1000 or 10000 will show more data rows to inspect in result views. |
 | ```"sqltools.results.location": "current"``` | Defines the editor group to use for result table views. SQL Tools displays all results in the next editor group to show results on the side next to the active SQL query editor. Changing this setting to `current` will display results in the same editor group and display more result columns. |
 
-# Feedback
-
-Please use our [SQLite Pro Tools Github Discussions](https://github.com/RandomFractals/sqlite-pro-tools/discussions) portal to submit your feedback, share examples of how you are using this VS Code extension, or request new trivial and premium features. Our goal with this extension is to make SQLite more accessible and easier to use in VS Code IDE.
-
 # Support
 
 Become a [Fan or a Pro Sponsor](https://github.com/sponsors/RandomFractals) on GitHub to support our dev work on **SQLite Pro Tools**, new [**Pro Data Tools**](https://github.com/RandomFractals/pro-data-tools/tree/main#pro-data-tools) and other free and public [Random Fractals, Inc. code and data viz extensions](https://marketplace.visualstudio.com/publishers/RandomFractalsInc).
