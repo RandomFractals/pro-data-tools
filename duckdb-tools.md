@@ -304,12 +304,6 @@ You can leverage writable `:memory:` DuckDB instances in **DuckDB Pro Tools** to
 
 In-Memory DuckDB instances function similar to [In-Memory SQLite Databases](https://www.sqlite.org/inmemorydb.html). You can use [DuckDB Import Data](https://duckdb.org/docs/data/overview) and [Atach](https://duckdb.org/docs/sql/statements/attach) features available via DuckDB SQL statements, and use [Export Database](https://duckdb.org/docs/sql/statements/export) SQL statements to export created in-memory DuckDB instances.
 
-## VS Code Memory Limit
-
-You can adjust the amount of RAM allocated to VS Code IDE to enable opening large files and load more data into memory. Go to `File -> Preferences -> Settings` and type `files.maxMemoryForLargeFilesMB` in the Setting search field to change it. For example, users with 64GB of RAM can change it to `49152` MB to allow VS Code use 48GB of available memory.
-
-![VS Code Max Memory Setting](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/vscode-max-memory-setting.png?raw=true)
-
 # Configuration
 
 [SQL Tools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) extension provides many configuration [Settings](https://vscode-sqltools.mteixeira.dev/en/settings/) users can toggle to change database connection and tree view display options, sql formatting, and results display.
