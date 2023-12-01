@@ -2,6 +2,13 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## DuckDB SQL Tools v1.4.0 - [2023-12-01]
+
+- Update DuckDB SQL Tools to support the latest DuckDB 0.9.2 version
+- Remove VS Code Memory Limit section from DuckDB SQL Tools doc
+- Add new SQLite Pro Tools info to the Pro Data Tools sections in DuckDB SQL Tools `README.md`
+- Package and publish DuckDB SQL Tools v1.4.0 with DuckDB v0.9.2 support
+
 ## SQLite Pro Tools v1.0.0 - [2023-11-27]
 
 - Create new SQLite Tools VS Code extension codebase from SQL Tools and drivers monorepo
