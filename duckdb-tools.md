@@ -14,7 +14,7 @@ The free and public [DuckDB SQL Tools](https://marketplace.visualstudio.com/item
 
 ## DuckDB SQL Tools *Preview* Features
 
-[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Preview* extension v1.3.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with [DuckDB v0.9](https://duckdb.org/2023/09/26/announcing-duckdb-090.html) instances:
+[DuckDB SQL Tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools) *Preview* extension v1.4.0 adds the following basic DuckDB SQL capabilities to VS Code IDE for working with [DuckDB v0.9](https://duckdb.org/2023/09/26/announcing-duckdb-090.html) instances:
 
 - **Connect** to a local DuckDB [v0.9.1](https://github.com/duckdb/duckdb/releases/tag/v0.9.1) file instance
 - **Create** new in-memory DuckDB instance
