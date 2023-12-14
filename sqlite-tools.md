@@ -57,7 +57,7 @@ Download and install **Node.js** from the official [node.js downloads](https://n
 
 ## Configuration Settings
 
-SQLite configuration settings/[compile options](https://duckdb.org/docs/sql/configuration):
+SQLite configuration settings / [compile options](https://www.sqlite.org/compile.html):
 
 ![SQLite Settings](https://github.com/RandomFractals/pro-data-tools/blob/main/docs/images/sqlite-settings.png?raw=true)
 
