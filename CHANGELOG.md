@@ -2,6 +2,13 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## SQLite Pro Tools v1.1.0 - [2024-07-04]
+
+- Add `chinook.db` with typed columns
+- Update year to 2024 in the license text file
+- Update SQLite3 Node JS library to the latest v5.1.7 version
+- Package and publish SQLite Pro Tools v1.1.0
+
 ## DuckDB SQL Tools v1.4.0 - [2023-12-01]
 
 - Update DuckDB SQL Tools to support the latest DuckDB 0.9.2 version
