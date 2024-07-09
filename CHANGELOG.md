@@ -2,6 +2,19 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## DuckDB Pro Tools v1.5.0 - [2024-07-09]
+
+- Update DuckDB Pro Tools to use DuckDB v0.9.2 NodeJS libraries
+- Update DuckDB Pro Tools `README.md` with new DuckDB v0.9.2 support info
+- Update DuckDB Pro Tools with DuckDB v0.9.2 support info in Pro Data Tools documentation repository
+- Link supported advanced DuckDB views sections in the DuckDB Pro Tools intro
+- Update Sponsor links in DuckDB Pro Tools README.md
+- Update Future Pro Data Taools Releases section and remove old Twitter links from DuckDB Pro Tools README.md
+- Cast `bigint` values to `Number` in DuckDB query `TableData` results
+- Remove VS Code Memory Limit section from DuckDB Pro Tools doc
+- Set Copyright © 2024 in `LICENSE.txt`
+- Package and publish DuckDB Pro Tools v1.5.0 with DuckDB v0.9.2 support
+
 ## SQLite Pro Tools v1.1.0 - [2024-07-04]
 
 - Add `chinook.db` with typed columns

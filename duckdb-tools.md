@@ -59,17 +59,17 @@ Our **Pro Data Tools** for devs and data scientists using VS Code IDE include **
 
 ## DuckDB Pro Tools Features
 
-The latest version of [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.8](https://duckdb.org/2023/05/17/announcing-duckdb-080.html) instances:
+The latest version of [DuckDB Pro Tools](https://github.com/RandomFractals/pro-data-tools/blob/main/duckdb-tools.md#duckdb-pro-tools) extension adds the following capabilities to VS Code IDE for working with [DuckDB v0.9](https://duckdb.org/2023/05/17/announcing-duckdb-090.html) instances:
 
-- **Connect** to a local DuckDB [v0.8.1](https://github.com/duckdb/duckdb/releases/tag/v0.8.1) instance
+- **Connect** to a local DuckDB [v0.9.2](https://github.com/duckdb/duckdb/releases/tag/v0.9.2) instance
 - **Create** new in-memory DuckDB instance
 - **Import** local and remote `CSV`, `JSON` and `Parquet` data files into in-memory DuckDB instance for exploratory data analysis (EDA)
-- **View** DuckDB v0.8.1 databases, schemas, tables, columns, views, indexes, sequences, extensions, settings, functions, types and keywords in SQL Tools Connections Explorer
+- **View** DuckDB v0.9.2 databases, schemas, tables, columns, views, indexes, sequences, extensions, settings, functions, types and keywords in SQL Tools Connections Explorer
 - **Run** SQL queries on active DuckDB connections
 - **Attach** SQLite database files to in-memory DuckDB instances to run analytical queries
 - **Query** remote `CSV`, `Parquet`, and `JSON` data files with [DuckDB HTTPFS](https://duckdb.org/docs/extensions/httpfs.html) extension and new [DuckDB JSON](https://duckdb.org/2023/03/03/json.html) extension
 - **Create** in-memory DuckDB tables from remote data sources and query results
-- **Manage** DuckDB v0.8.1 connections in SQL Tools Connections Explorer
+- **Manage** DuckDB v0.9.2 connections in SQL Tools Connections Explorer
 - **Auto-complete** SQL keywords, DuckDB instance schemas, table names, column names, and view names for active DuckDB connections in VS Code SQL editor
 - **Save** named SQL query Bookmarks
 - **Use** SQL Query History
@@ -95,9 +95,9 @@ The other [DuckDB Sql Tools](https://marketplace.visualstudio.com/items?itemName
 
 ## DuckDB Upgrade
 
-If you already have the free public DuckDB SQL Tools installed, and configured new **DuckDBPro** connection to use with **DuckDB Pro Tools** extension, you'll be prompted to update `duckdb-async` library to v0.8.1 to use the latest DuckDB version and features.
+If you already have the free public DuckDB SQL Tools installed, and configured new **DuckDBPro** connection to use with **DuckDB Pro Tools** extension, you'll be prompted to update `duckdb-async` library to v0.9.2 to use the latest DuckDB version and features.
 
-You might need to restart VS Code after duckdb library update for the new DuckDB v0.8.1 connection and queries to work. Below is a quick demo of that DuckDB library update process.
+You might need to restart VS Code after duckdb library update for the new DuckDB v0.9.2 connection and queries to work. Below is a quick demo of that DuckDB library update process.
 
 ![DuckDB Pro Tools Libraries Update](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-upgrade.gif?raw=true)
 
@@ -187,7 +187,7 @@ select * from duckdb_extensions();
 
 ## DuckDB JSON
 
-[DuckDB v0.7](https://duckdb.org/2023/02/13/announcing-duckdb-070.html) and higher DuckDB `v0.8.1` include new and improved [`JSON` extension](https://duckdb.org/2023/03/03/json.html) capabilities to work with JSON documents. **DuckDB Pro Tools** install and load DuckDB JSON extension for all active DuckDB conenctions in order to enable quick JSON data imports and other JSON related features without extra SQL setup.
+[DuckDB v0.7](https://duckdb.org/2023/02/13/announcing-duckdb-070.html) and higher DuckDB `v0.8.1` and `v0.9.2` include new and improved [`JSON` extension](https://duckdb.org/2023/03/03/json.html) capabilities to work with JSON documents. **DuckDB Pro Tools** install and load DuckDB JSON extension for all active DuckDB conenctions in order to enable quick JSON data imports and other JSON related features without extra SQL setup.
 
 Quick DuckDB JSON extension query example and steps to parse and load remote `JSON` data document from a public Github repository with **DuckDB Pro Tools** in VS Code:
 
@@ -199,7 +199,7 @@ Quick DuckDB JSON extension query example and steps to parse and load remote `JS
 
 ![DuckDB Pro Tools JSON Data Load](https://github.com/RandomFractals/duckdb-sql-tools/blob/main/docs/images/duckdb-pro-tools-json-data-load.gif?raw=true)
 
-**Note**: the US airports demo data in example above is from our VS Code [Data Table Renderers](https://github.com/RandomFractals/vscode-data-table/tree/main/data) extension we will use later in the upcoming [Data Notebook Pro](https://github.com/RandomFractals/pro-data-tools#data-notebook-pro-tools) extension to query and display tabular data results from many different data sources, including DuckDB. New **Data Notebook Pro** extension will be released in Q4 of 2023.
+**Note**: the US airports demo data in example above is from our VS Code [Data Table Renderers](https://github.com/RandomFractals/vscode-data-table/tree/main/data) extension we will use later in the upcoming [Data Notebook Pro](https://github.com/RandomFractals/pro-data-tools#data-notebook-pro-tools) extension to query and display tabular data results from many different data sources, including DuckDB. New **Data Notebook Pro** extension will be released in Q4 of 2024.
 
 Quick Data Notebook extension info preview with a simple Data Connections side panel and a few commands already implemented for that custom VS Code Notebook extension we plan to release with SQL and PRQL queries support.
 
@@ -270,7 +270,7 @@ While **DuckDB Pro Tools** offer more features and examples, and work with the l
 
 ## DuckDB Storage
 
-The latest version of **DuckDB Pro Tools** extension supports local DuckDB instances created with [DuckDB v0.8.1](https://github.com/duckdb/duckdb/releases) engine. Database instances and files created with prior versions of DuckDB are not supported as they use different compression and [storage](https://duckdb.org/internals/storage) formats and the structure of `.duckdb` file has been changing as DuckDB engine is evolving.
+The latest version of **DuckDB Pro Tools** extension supports local DuckDB instances created with [DuckDB v0.9.2](https://github.com/duckdb/duckdb/releases) engine. Database instances and files created with prior versions of DuckDB are not supported as they use different compression and [storage](https://duckdb.org/internals/storage) formats and the structure of `.duckdb` file has been changing as DuckDB engine is evolving.
 
 You can still use our free limited capabilities public [DuckDB SQL Tools](https://github.com/RandomFractals/duckdb-sql-tools) extension to load and query older DuckDB v0.6.1 data files. Switching between older DuckDB Sql Tools and this **DuckDB Pro Tools** version and DuckDB file configs will prompt you to upgrade or downgrade the corresponding DuckDB Node.js library accordingly, but you can keep both extensions and switch the extension you want to use depending on the DuckDB files version you are working with.
 
@@ -284,7 +284,7 @@ Read [Announcing DuckDB 0.6.0](https://duckdb.org/2022/11/14/announcing-duckdb-0
 
 **NOTE**: current DuckDB write access mode and connection handling in **DuckDB Pro Tools** v1.1.0 and latest is very alpha and some restrictions still apply:
 
-- DuckDB v0.8.1 still supports only **one** active `write` connection, or multipple `readers` and no `writers` in its latest implementation.
+- DuckDB v0.9.2 still supports only **one** active `write` connection, or multipple `readers` and no `writers` in its latest implementation.
 
 - DuckDB Pro Tools will create a `read-only` connection if opening `.duckdb` file in `read-write` access mode fails.
 
