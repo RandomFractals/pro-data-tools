@@ -2,6 +2,12 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## v1.6.0 - [2024-07-12]
+
+- Update DuckDB Pro SQL Tools to support DuckDB 0.10 version
+- Update DuckDB Pro SQL Tools docs with DuckDB v0.10 support info
+- Package and publish DuckDB Pro Tools v1.6.0
+
 ## DuckDB SQL Tools v1.5.0 - [2024-07-12]
 
 - Convert `BigInt` values and arrays to `Number` in DuckDB `TableData` query results for display in SQL Tools records view
