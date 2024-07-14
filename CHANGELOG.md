@@ -2,6 +2,12 @@
 
 Combined [Pro Data Tools](https://github.com/RandomFractals/pro-data-tools#pro-data-tools) changelog for all the VS Code extensions and versions released to our [Pro sponsors](https://github.com/sponsors/RandomFractals) on GitHub.
 
+## DuckDB SQL Tools v1.6.0 - [2024-07-14]
+
+- Update DuckDB SQL Tools Preview to support DuckDB v0.10
+- Update DuckDB SQL Tools Preview docs with DuckDB v0.10 support info
+- Package and publish DuckDB SQL Tools Preview v1.6.0 with DuckDB v0.10.2 support
+
 ## DuckDB Pro Tools v1.6.0 - [2024-07-12]
 
 - Update DuckDB Pro SQL Tools to support DuckDB 0.10 version
